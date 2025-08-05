@@ -9,7 +9,8 @@ Credit card default poses significant financial risks to lenders. Identifying cu
 
 ---
 
-View My Live App: [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://huggingface.co/spaces/ashnaxhaikh/Credit_Scoring)
+View My Live App: 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://huggingface.co/spaces/ashnaxhaikh/Credit_Scoring)
 
 
 ---
