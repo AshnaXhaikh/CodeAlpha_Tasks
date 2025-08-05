@@ -3,27 +3,14 @@
 This project is focused on predicting whether a credit card user will **default on payment** or not. We started with basic preprocessing and model development, and progressed toward optimizing the model for better recall of defaulters. Finally, the best-performing model was deployed as a **Streamlit web app**.
 
 ---
-
 **Problem Statement**
 
 Credit card default poses significant financial risks to lenders. Identifying customers likely to default is crucial for maintaining financial stability and minimizing losses. The goal of this project is to build a robust machine learning model that predicts whether a customer will default on their credit card payment in the next month. The dataset includes various customer features such as payment history, credit limit, and bill amounts. We aim to maximize recall for identifying defaulters (class 1), as missing them is more costly than misclassifying non-defaulters. The model is deployed as an interactive Streamlit web app for real-time prediction.
 
 ---
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://huggingface.co/spaces/ashnaxhaikh/Credit_Scoring)
 
-## 📂 Project Structure
-
-```
-credit-scoring/
-│
-├── scaler.joblib           # saved scaler
-├── random_forest_model.joblib             # Saved model and
-├── threshold                # saved threshold
-├── app.py                   # Streamlit app 
-├── CreditScoring.ipynb   # Main Jupyter notebook
-├── requirements.txt       # Required packages
-└── README.md              # Project summary
-```
 
 ---
 
