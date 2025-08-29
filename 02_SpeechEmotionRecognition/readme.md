@@ -17,6 +17,8 @@ This project implements an **audio emotion recognition** system using a Convolut
 - Audio files are preprocessed by extracting MFCC features, which capture important characteristics of speech.
 - MFCC features are padded or trimmed to a fixed length to maintain consistent input size for the CNN.
 - A CNN model is trained to classify emotions based on these features.
+---
+View my live App: [Speech Emotion Recognition](https://huggingface.co/spaces/ashnaxhaikh/Speech-Emotion-Recognition)
 
 ---
 
